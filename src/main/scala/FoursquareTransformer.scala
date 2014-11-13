@@ -8,7 +8,7 @@ import scala.io.Source
 
 @Plugin(
   id = "foursquare",
-  categories = Array("Combine"),
+  categories = Array("API"),
   label = "Foursquare",
   description = "Get the Foursquare Id."
 )
