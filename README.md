@@ -9,6 +9,14 @@ Data publishers that need to link their data to 3rd party platforms such as Four
 existing or new Silk workflow to match Point of Interests (POIs) with Foursquare venues, adding the Foursquare venue id
 or URL to their data.
 
+*Table of Contents*
+
+ * [Install](#install)
+ * [Configure](#configure)
+  * [Using the Workbench](#using-the-workbench)
+  * [Using the project configuration](#using-the-project-configuration)
+  * [Using Single Machine](#using-single-machine)
+
 ## Install
 
 Compile the library to a JAR file and copy it to Silk plugins folder (`~/.silk/plugins`).
