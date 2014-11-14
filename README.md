@@ -24,6 +24,9 @@ The Foursquare plugin supports the following parameters:
  * *limit*: the maximum number of results (use 1 to get the best match).
 
 
+If you don't have a Foursquare client id and secret, you can create one here: https://foursquare.com/developers/apps
+
+
 ### Using the Workbench
 
 @@TODO@@
