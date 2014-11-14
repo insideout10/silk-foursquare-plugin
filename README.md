@@ -1,3 +1,5 @@
+<a href="http://insideout.io"><img src="https://insideout10.github.io/silk-foursquare-plugin/images/insideout10-opensource.png" /></a>
+
 Foursquare Silk Plugin
 ======================
 
