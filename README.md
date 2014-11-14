@@ -9,14 +9,12 @@ Data publishers that need to link their data to 3rd party platforms such as Four
 existing or new Silk workflow to match Point of Interests (POIs) with Foursquare venues, adding the Foursquare venue id
 or URL to their data.
 
-Install
--------
+## Install
 
 Compile the library to a JAR file and copy it to Silk plugins folder (`~/.silk/plugins`).
 
 
-Configure
----------
+## Configure
 
 The Foursquare plugin supports the following parameters:
 
@@ -26,13 +24,11 @@ The Foursquare plugin supports the following parameters:
  * *limit*: the maximum number of results (use 1 to get the best match).
 
 
-Using the Workbench
-___________________
+### Using the Workbench
 
 @@TODO@@
 
-Using the project configuration
-_______________________________
+### Using the project configuration
 
 Edit or create the `rules.xml` file in Silk's project folder (`~/.silk/workspace/project-name/transform/transform-name/rules.xml`).
 
@@ -54,8 +50,7 @@ It'll return the Foursquare venue URL, such as _http://foursquare.com/venue/xyz_
     </TransformRules>
 
 
-Using Single Machine
-___________________________
+### Using Single Machine
 
 
 @@TODO@@
