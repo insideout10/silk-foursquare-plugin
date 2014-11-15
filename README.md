@@ -157,8 +157,7 @@ The order of the `Input` elements *is important*, they must be listed in the fol
  3. country
 
 
-*Note that for this to work, Silk framework needs an update which is currently under review, further details will be
-posted soon*
+*Note that for this to work, Silk framework needs [pull request 29](https://github.com/silk-framework/silk/pull/29)*
 
 
     <Silk>
