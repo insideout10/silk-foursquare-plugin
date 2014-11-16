@@ -195,3 +195,18 @@ The order of the `Input` elements *is important*, they must be listed in the fol
       </Transforms>
 
     </Silk>
+
+
+## Acknowledgements
+
+This work is made possible thanks to:
+
+ * [Salzburgerland Tourismus](http://salzburgerland.com) for innovation in Tourism and Linked Data,
+ * [Redlink](http://redlink.co) for the Linked Data cloud platform,
+ * [WordLift](http://join.wordlift.it) for bring Artificial Intelligence to web publishers,
+ * [InsideOut10](http://insideout.io) for the project management and development.
+
+A special thanks goes to:
+
+ * [JetBrains](http://jetbrains.com) for providing the IntelliJ IDEA open source license,
+ * [TripAdvisor](http://tripadvisor.com) for providing the Content API used to map locations.
