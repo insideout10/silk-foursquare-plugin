@@ -209,4 +209,4 @@ This work is made possible thanks to:
 A special thanks goes to:
 
  * [JetBrains](http://jetbrains.com) for providing the IntelliJ IDEA open source license,
- * [TripAdvisor](http://tripadvisor.com) for providing the Content API used to map locations.
+ * [Foursquare](http://foursquare.com) for providing the API used to map venues.
